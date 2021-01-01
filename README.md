@@ -17,7 +17,7 @@
 
 1、安装雷电模拟器，雷电模拟器建议用4.0版本，下载地址：https://dl.softmgr.qq.com/original/game/ldinst_4.0.40_20201111.exe   安装模拟器后，建议将模拟器设置分辨率为手机版900*1600。如果你不用模拟器，改用手机学习，可以打开config文件夹里的default.ini文件，将emulatorused设置为disable；
 
-2、模拟器安装学xi强国APP，建议使用2.18.1版本，下载地址：https://www.100down.com/app/18758.html  ； 2.19版本及以上暂时不支持订阅，手动关掉订阅即可。
+2、模拟器安装学xi强国APP，建议使用最新版本(2.19或者2.20)，下载地址：https://dl.pconline.com.cn/download/2269849.html
 
 3、打开文件夹AutoXue Config，利用exe程序进行一键配置。
 
